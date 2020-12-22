@@ -1,5 +1,7 @@
-Acer Swift 3 SF-314-54G Hackintosh
+# Acer Swift 3 SF-314-54G Hackintosh Catalina
+
 Specifications:
+
 - Processor: Intel Core i3 7020U 2.30GHz
 - iGPU: Intel HD Graphics 620
 - eGPU: NVidia MX150

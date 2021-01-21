@@ -1,4 +1,4 @@
-# Acer Swift 3 SF-314-54G Hackintosh Catalina
+# Acer Swift 3 SF-314-54G Hackintosh Bigs Sur
 
 Specifications:
 
@@ -11,8 +11,12 @@ Specifications:
 - Audio: Realtek ALC256
 - Screen Size: 14"
 - Resolusi Layar: 1920 x 1080 (Full HD)
-- Clover Version : Clover r5126
-- Ethernet : Non Ethernet
-- Touchpad : Synaptic I2C Interface
-- Boot Mode : UEFI GPT
-- OS: macOS Mojave 10.15.7 + Windows 10
+- Opencore Version: Opencore 0.6.6
+- Ethernet: Non Ethernet
+- Touchpad: Synaptic I2C Interface
+- OS: MacOS Big Sur 11.1 + Windows 10
+
+Not Working:
+
+- Mic internal and external
+- NVidia MX150

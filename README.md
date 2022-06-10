@@ -13,7 +13,6 @@ Specifications:
 - Ethernet   : -
 - Bootloader : Opencore 0.8.1
 - OS Version : MacOS Ventura 13.0 Beta 1, Windows 10
-- Installer : Olarila
 
 Not Working:
 

@@ -2,21 +2,20 @@
 
 Specifications:
 
-- Processor: Intel Core i3 7020U 2.30GHz
-- iGPU: Intel HD Graphics 620
-- eGPU: NVidia MX150
-- RAM: 8GB DDR4 PC19200 (2133Mhz)
-- Storage: SSD M.2 VGen 256GB + HDD Toshiba 1TB
-- Wifi: Intel NGFF AC 7265 + Bluetooth
-- Audio: Realtek ALC256
-- Screen Size: 14"
-- Resolusi Layar: 1920 x 1080 (Full HD)
-- Opencore Version: Opencore 0.6.6
-- Ethernet: Non Ethernet
-- Touchpad: Synaptic I2C Interface
-- OS: MacOS Big Sur 11.1 + Windows 10
+- Processor  : Intel Core i3-7020U 2.30 Ghz
+- iGPU   : Intel HD Graphics 620
+- dGPU : Nvidia MX150
+- RAM   : 8GB DDR4 2133 MHz
+- Audio Codec  : Realtek ALC256
+- Trackpad  : PS2 Trackpad
+- Storage : SSD ADATA SX6000Lite 256 GB + SSD Sandisk 240 GB
+- Wireless LAN  : Intel AC-7265 (M.2 NGFF)
+- Ethernet   : -
+- Bootloader : Opencore 0.8.1
+- OS Version : MacOS Ventura 13.0 Beta 1, Windows 10
+- Installer : Olarila
 
 Not Working:
 
-- Mic internal and external
-- NVidia MX150
+- Internal mic
+- NVidia MX150 (disabled via SSDT)

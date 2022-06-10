@@ -8,7 +8,7 @@
             <array>
                 <dict>
                     <key>Comment</key>
-                    <string>SSDT-DHR.aml</string>
+                    <string>SSDT-HACK.aml</string>
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>

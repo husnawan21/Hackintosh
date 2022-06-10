@@ -1,4 +1,4 @@
-# Acer Swift 3 SF-314-54G Hackintosh Big Sur
+# Acer Swift 3 SF-314-54G Hackintosh
 
 Specifications:
 
